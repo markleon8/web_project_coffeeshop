@@ -37,12 +37,12 @@
   list-style-type: none;
 }
 
-.video-item {
+.recipes__video-item {
   width: 480px;
   max-width: 100%;
 }
 
-.video {
+.recipes__video {
   position: relative;
   overflow: hidden;
   width: 100%;
@@ -58,13 +58,13 @@
   border: none;
 }
 
-.video-caption-wrapper {
+.recipes__video-caption-wrapper {
   display: flex;
   justify-content: space-between;
   padding: 24px 0;
 }
 
-.video-caption {
+.recipes__video-caption {
   color: #ffffff;
   font-weight: 500;
   font-size: 20px;
